@@ -29,9 +29,6 @@ Edit
 - **CSS3** – Styling and layout (Flexbox, custom buttons, hover effects)
 - **JavaScript (Vanilla)** – Basic interactivity
 
-## 📷 Screenshots
-
-(Add screenshots here to visually showcase the site)
 
 ## 🚀 Getting Started
 
